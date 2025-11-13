@@ -9,16 +9,16 @@ It analyzes sales, profit, discount patterns, and customer trends using the Supe
 ## 📈 Dashboard Preview
 
 ### **Full Dashboard**
-![Dashboard](images/Dashboard_full.png)
+[Dashboard](images/Dashboard_full.png)
 
 ### **KPIs**
-![KPIs](images/KPIs.png)
+[KPIs](images/KPIs.png)
 
 ### **Charts**
-![Charts](images/Charts.png)
+[Charts](images/Charts.png)
 
 ### **Filters Panel**
-![Filters](images/Filters.png)
+[Filters](images/Filters.png)
 
 ---
 
